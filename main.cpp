@@ -6,3 +6,4 @@ int main() {
     cout << "gogo" << std::endl;
     return 0;
 }
+321
